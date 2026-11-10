@@ -43,7 +43,7 @@ Everything is written **without Arduino libraries**. The code configures the AVR
 
 ### 🔧 Build in Progress
 
-![Speed Trap during the build](in-progress.jpg)
+![Speed Trap during the build](inprogress.jpg)
 
 *Wiring and testing the sensors and peripherals on the breadboard.*
 
