@@ -61,6 +61,6 @@ Everything is written **without Arduino libraries**. The code configures the AVR
 
 ## 👤 Author
 
-**Daisy Fregoso** · [LinkedIn](#) <!-- replace # with your LinkedIn URL -->
+**Daisy Fregoso** · [LinkedIn](https://www.linkedin.com/in/daisy-fregoso/) <!-- replace # with your LinkedIn URL -->
 
 *Built for EE 109 at the University of Southern California, Fall 2025.*
