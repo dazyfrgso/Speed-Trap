@@ -2,8 +2,11 @@
 
 > A real-time speed measurement system written in bare-metal C for the ATmega328P (Arduino Uno). I built it as the final project for **EE 109: Introduction to Embedded Systems** at USC in Fall 2025.
 
-![Speed Trap build](speedtrap.jpg)
-
+<p align="center">
+  <img src="speedtrap.jpg" alt="Complete Speed Trap build" width="49%" />
+  <img src="inprogress.jpg" alt="Live measurement on the LCD" width="37%" />
+</p>
+<p align="center"><em>Left: the complete build. Right: a live reading of 161 ms → 23 cm/s.</em></p>
 ---
 
 ## 📌 Overview
@@ -40,10 +43,6 @@ Everything is written **without Arduino libraries**. The code configures the AVR
 | Buzzer | Audio warning |
 | Servo motor | Analog speed gauge |
 | SN74HCT00N NAND gate | Signal conditioning |
-
-### 🔧 Build in Progress
-
-![Speed Trap during the build](inprogress.jpg)
 
 *Wiring and testing the sensors and peripherals on the breadboard.*
 
