@@ -7,6 +7,7 @@
   <img src="inprogress.jpg" alt="Live measurement on the LCD" width="37%" />
 </p>
 <p align="center"><em>Left: the complete build. Right: a live reading of 161 ms → 23 cm/s.</em></p>
+
 ---
 
 ## 📌 Overview
